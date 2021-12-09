@@ -1,0 +1,15 @@
+#container {
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 5px 15px grey;
+}
+
+.left {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.right {
+	float: right;
+	margin-bottom: 10px;
+}
