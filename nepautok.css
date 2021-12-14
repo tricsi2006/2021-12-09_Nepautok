@@ -16,3 +16,12 @@
 body{
 	text-align: justify;
 }
+a{
+	color: darkgray;
+	background-color: lightgray;
+	text-decoration: none;
+}
+
+a:hover{
+	color: chocolate;
+}
