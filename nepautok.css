@@ -40,5 +40,9 @@ a:hover{
 	border: 1px solid black;
 }
 .img-box{
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px #999 solid;
 	
 }
