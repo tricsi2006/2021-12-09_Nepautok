@@ -34,3 +34,8 @@ a:hover{
 .text{
 	text-align: justify;
 }
+.vonal{
+	width: 680px;
+	margin-top: 10px;
+	border: 1px solid black;
+}
