@@ -28,4 +28,9 @@ a{
 
 a:hover{
 	color: chocolate;
+
+}
+
+.text{
+	text-align: justify;
 }
